@@ -1,1 +1,1 @@
-frontend_genignite
+EduAI
